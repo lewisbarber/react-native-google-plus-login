@@ -8,7 +8,8 @@
   	"iOS/RCTGooglePlusLoginButton.h",
   	"iOS/RCTGooglePlusLoginButton.m",
   	"iOS/RCTGooglePlusLoginManager.h",
-  	"iOS/RCTGooglePlusLoginManager.m"
+  	"iOS/RCTGooglePlusLoginManager.m",
+    "js/GooglePlusLoginManager.js"
   ],
   "repository": {
   	"type": "git",
