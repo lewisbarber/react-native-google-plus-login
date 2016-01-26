@@ -2,7 +2,7 @@
   "name": "react-native-google-plus-login",
   "version": "0.2.1",
   "description": "A Google+ login manager and <GooglePlusLoginButton /> for react-native",
-  "main": "GooglePlusLogin.ios.js",
+  "main": "js/GooglePlusLoginManager.js",
   "author": "Justin Makaila <justinmakaila@gmail.com> (https://github.com/justinmakaila)",
   "files": [
   	"iOS/RCTGooglePlusLoginButton.h",
